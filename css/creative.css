@@ -211,6 +211,9 @@ header .header-content .header-content-inner p {
 .section-heading {
   margin-top: 0;
 }
+.aboutus_box{
+  margin-top: 5%;
+}
 .service-box {
   max-width: 400px;
   margin: 50px auto 0;
