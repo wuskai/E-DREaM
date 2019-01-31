@@ -10,8 +10,13 @@ body {
   background-color: white;
 
 }
-body {
+/* body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+} */
+body {
+  font-family: 'Noto Sans TC', sans-serif;
+  /* font-size: 16px;  */
+  /* color: #444; */
 }
 hr {
   border-color: #F05F40;
@@ -37,7 +42,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Noto Sans TC', sans-serif;
 }
 p {
   font-size: 16px;
@@ -66,14 +71,14 @@ aside {
 .navbar-default {
   background-color: white;
   border-color: rgba(34, 34, 34, 0.05);
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Noto Sans TC', sans-serif;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
 }
 .navbar-default .navbar-header .navbar-brand {
   color: #F05F40;
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Noto Sans TC', sans-serif;
   font-weight: 700;
   text-transform: none;
 }
@@ -157,7 +162,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/header.jpg');
+  background-image: url('../img/e-dream_intro.jpg');
   text-align: center;
   color: white;
 }
@@ -260,7 +265,7 @@ header .header-content .header-content-inner p {
 }
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Noto Sans TC', sans-serif;
   padding: 0 15px;
 }
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
@@ -392,7 +397,7 @@ fieldset[disabled] .btn-primary.active {
   background-color: white;
 }
 .btn {
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Noto Sans TC', sans-serif;
   border: none;
   border-radius: 300px;
   font-weight: 700;
