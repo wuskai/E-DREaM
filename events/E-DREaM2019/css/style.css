@@ -68,6 +68,14 @@ h4 {
 .lead {
   font-size: 20px;
 }
+.note{
+  display: inline-block;
+  font-size: 20px;
+  background: rgb(186, 29, 14);
+  margin-top: 5px;
+  padding: 2px 5px;
+  border-radius: 10px;
+}
 
 a {
   color: #0b0f28;
@@ -186,7 +194,7 @@ textarea.input {
 }
 
 .navbar-brand .logo>img {
-  max-height: 50px;
+  max-height: 60px;
 }
 
 @media only screen and (max-width: 767px) {
